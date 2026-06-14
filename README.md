@@ -57,7 +57,7 @@ Windows 用户可以手动运行流水线，但当前自动安装器使用 `cron
 ## 快速开始
 
 ```bash
-git clone https://github.com/YOUR_NAME/douyin-obsidian-sync.git
+git clone https://github.com/CelesteZheng09/douyin-obsidian-sync.git
 cd douyin-obsidian-sync
 bash scripts/bootstrap.sh
 source .venv/bin/activate
