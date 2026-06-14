@@ -1,0 +1,4 @@
+interface:
+  display_name: "Douyin to Obsidian Sync"
+  short_description: "Configure and run Douyin favorites to Obsidian sync"
+  default_prompt: "Use $douyin-obsidian-sync to configure and verify my Douyin favorites to Obsidian automation."

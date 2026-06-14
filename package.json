@@ -1,0 +1,13 @@
+{
+  "name": "douyin-obsidian-sync-browser",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Browser bridge for Douyin favorites collection",
+  "type": "module",
+  "scripts": {
+    "install-browser": "playwright install chromium"
+  },
+  "dependencies": {
+    "playwright": "1.60.0"
+  }
+}

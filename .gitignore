@@ -1,0 +1,14 @@
+.venv/
+.wheels/
+.models/
+.work/
+node_modules/
+dist/
+.tools/
+secrets/
+state/
+config.yaml
+run.log
+.DS_Store
+__pycache__/
+*.py[cod]
