@@ -1,2 +1,2 @@
 # Optional: only install when summarize.mode is "openai".
-openai==2.41.1
+openai==2.43.0
